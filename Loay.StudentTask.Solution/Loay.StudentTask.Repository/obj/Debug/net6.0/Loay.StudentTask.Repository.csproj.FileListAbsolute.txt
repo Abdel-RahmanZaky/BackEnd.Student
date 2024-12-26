@@ -1,0 +1,15 @@
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\bin\Debug\net6.0\Loay.StudentTask.Repository.deps.json
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\bin\Debug\net6.0\Loay.StudentTask.Repository.dll
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\bin\Debug\net6.0\Loay.StudentTask.Repository.pdb
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\bin\Debug\net6.0\Loay.StudentTask.Core.dll
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\bin\Debug\net6.0\Loay.StudentTask.Core.pdb
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.csproj.AssemblyReference.cache
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.AssemblyInfoInputs.cache
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.AssemblyInfo.cs
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.csproj.CoreCompileInputs.cache
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.Stu.B3581FB6.Up2Date
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.dll
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\refint\Loay.StudentTask.Repository.dll
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\Loay.StudentTask.Repository.pdb
+E:\Loay.Task\Loay.StudentTask.Solution\Loay.StudentTask.Repository\obj\Debug\net6.0\ref\Loay.StudentTask.Repository.dll
